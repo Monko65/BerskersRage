@@ -1,0 +1,5 @@
+Unity Store assets used:
+Absolutley Free Music: https://assetstore.unity.com/packages/audio/music/absolutely-free-music-4883
+Starter Assets - Third Person Character Controller: https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
+
+Only things used in starter asset was basic character movement and camera
